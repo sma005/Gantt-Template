@@ -1,4 +1,4 @@
-##Gantt-Template
+## Gantt-Template
 
 This is a template for a Gantt chart. It has the ability to keep track of all projects on a weekly basis.
 
