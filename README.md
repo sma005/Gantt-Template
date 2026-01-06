@@ -14,4 +14,7 @@ tasks are completed, it is recommended that you start a new Gantt chart and copy
 To best compare an overall project with a sub-project, you may want to think about freezing panes. Column J is 
 the best line to freeze horizontally. Vertically, just freeze the line you want to compare.
 
+Wingdings are used for the symbols. You can change or add your own with the settings page. You can choose from
+the preselected symbols on column A.
+
 [See a screenshot](Gantt_Chart.png)
