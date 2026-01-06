@@ -14,4 +14,4 @@ tasks are completed, it is recommended that you start a new Gantt chart and copy
 To best compare an overall project with a sub-project, you may want to think about freezing panes. Column J is 
 the best line to freeze horizontally. Vertically, just freeze the line you want to compare.
 
-[Screenshot](Gantt_Chart.png)
+[See a screenshot](Gantt_Chart.png)
